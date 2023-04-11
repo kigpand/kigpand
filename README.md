@@ -1,4 +1,10 @@
-### Hi there 👋
+### 프론트엔드 개발자 김지훈입니다.
+***
+
+<h2>기술 스택</h2>
+***
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white">
 
 <!--
 **kigpand/kigpand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
