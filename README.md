@@ -14,6 +14,12 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=Node.js&amp;logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white">
 </p>
+
+<h2>경력</h2>
+
+##### 다비오 (2021.11.01 ~ 2023.02.28)
+
+##### 창소프트아이앤아이 (2021.04.01 ~ 2021.10.30)
 <!--
 **kigpand/kigpand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
