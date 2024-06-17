@@ -19,7 +19,7 @@
 
 ##### 다비오 (2021.11.01 ~ 2023.02.28)
 
-##### 창소프트아이앤아이 (2021.04.01 ~ 2021.10.30)
+##### 비플러스헬스케어 (2023.08.09 ~ )
 <!--
 **kigpand/kigpand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
