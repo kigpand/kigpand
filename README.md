@@ -23,7 +23,6 @@
 
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kigpand)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kigpand&hide=contribs,prs&show_icons=true&theme=radical)
 <!--
 **kigpand/kigpand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
