@@ -20,6 +20,10 @@
 ##### 다비오 (2021.11.01 ~ 2023.02.28)
 
 ##### 비플러스헬스케어 (2023.08.09 ~ )
+
+***
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kigpand)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kigpand&hide=contribs,prs&show_icons=true&theme=radical)
 <!--
 **kigpand/kigpand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
